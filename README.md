@@ -1,2 +1,2 @@
 # Telangana-Tourism-Data-Analyst
-Developed an interactive Power BI dashboard to analyze Telangana tourism data, showcasing total visitors (356.34M) and district-wise insights. Utilized charts, maps, and filters to highlight trends and implemented data modeling and DAX calculations to derive meaningful insights, supporting data-driven decision-making.
+Analyzed Telangana tourism data using Power BI to create an interactive dashboard showcasing 356.34M total visitors, district-wise trends, and seasonal patterns. Highlighted top-performing districts and provided actionable insights for improving tourism strategies using advanced Power BI features like DAX, data modeling, and interactive visualizations.
